@@ -1,0 +1,7 @@
+{
+  "name": "Griya Banten Online",
+  "description": "Platform e-commerce terpercaya untuk keperluan upacara Yadnya, Banten, Venue, dan Sulinggih di Bali.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
